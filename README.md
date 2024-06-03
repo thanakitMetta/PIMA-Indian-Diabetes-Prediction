@@ -5,6 +5,7 @@ involving four dedicated team members, each
 contributing their unique skills and expertise towards
 achieving the project's objectives. The team members
 and their respective contributions are as follows:
+
 1.1. Ms. Apinya Sriyota
 6322771534
 - Led the planning and set the direction for the
@@ -17,6 +18,7 @@ balanced the dataset, and divided data for
 training and testing.
 - Built and fine-tuned the XGBoost model,
 ensuring it's up to standard.
+
 1.2. Mr. Thanakit Mettarikanon
 6322772045
 - Collaborated on the early stages of the ANN
@@ -26,6 +28,7 @@ RandomForest and Logistic Regression
 models.
 - Offering insights and recommendations,
 helping refine our overall approach.
+
 1.3. Ms. Isariya Kerdkla
 6322773092
 - Took charge of building and refining the
@@ -34,6 +37,7 @@ Artificial Neural Network (ANN) model.
 laying a strong foundation.
 - Reviewed other models, giving feedback and
 suggesting improvements.
+
 1.4. Mr. Chanawong Karoon-ngampun
 6322774025
 - Worked with Mr. Thanakit to start the ANN
